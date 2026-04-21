@@ -28,4 +28,4 @@ Number Of Line Code (NLOC) and Cyclomatic Complexity Number
 richer and more complex compared to the AI generated one, which in
 turn turns out to be much more vulnerable in terms of security.
 
-# If you would like to see the Python code, please contact me
+# If you are interested to the Python code, please contact me
