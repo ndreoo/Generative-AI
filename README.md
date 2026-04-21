@@ -1,3 +1,5 @@
+# Comparing Comparing Quality of Human-written and AI-generated Code
+
 The increase in the use of LLMs for code generation, is leading towards
 a newevolution of the programmer’s role: from primary person respon
 sible for the work to supervisor of the generated code. Furthermore
@@ -24,4 +26,6 @@ the complexity analysis, we have calculated existing metrics such as
 Number Of Line Code (NLOC) and Cyclomatic Complexity Number
 (CCN). The results obtained show that human code is syntactically
 richer and more complex compared to the AI generated one, which in
-turn turns out to be much more vulnerable in terms of security
+turn turns out to be much more vulnerable in terms of security.
+
+# If you would like to see the Python code, please contact me
